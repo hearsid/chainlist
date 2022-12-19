@@ -9,4 +9,3 @@ Follow the steps described in the course to install, develop, test, deploy and r
 ## Warning
 **Make sure you don't run tests on Ethereum's main net otherwise you will use real ether with no chance to get them back**
 
-ChainSkills Team - 2017
